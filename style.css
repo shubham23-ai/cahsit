@@ -1,0 +1,47 @@
+/* div a{
+    color: aliceblue;
+    flex-direction: row;
+    font-size: larger;
+} */
+.flex {
+   display: flex;
+   justify-content: space-between;
+   padding: 14px;
+
+}
+
+.back {
+   background-color: rgba(0, 0, 0, 0.6);
+   
+   color: white;
+
+}
+
+nav a {
+   text-decoration: none;
+   margin-right:14px ;
+   color: aliceblue;
+}
+
+header {
+ 
+   background-image: url(images/back.jpg);
+   background-size: cover;
+}
+
+body {
+   margin: 0px;
+}
+.con{
+margin-left: 50px;
+  padding-top: 14px;
+  color: aliceblue;
+  font-size: x-large;
+  
+}
+.non{
+   margin-left: 50px;
+   padding-top: 14px;
+   font-size: small;
+   color: aliceblue;
+}
